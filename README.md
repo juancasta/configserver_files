@@ -1,1 +1,1 @@
-"#Subiendo todos los ficheros de propiedades compartidos" 
+Fichero de muestra para config server
